@@ -2,7 +2,7 @@
 #include <algorithm>
 using namespace std;
 int vs[1000];
-int main()
+int main() 
 {
     int a;
     scanf("%d",&a);
