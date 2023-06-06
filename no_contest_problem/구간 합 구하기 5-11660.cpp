@@ -2,7 +2,7 @@
 #include <algorithm>
 using namespace std;
 int nujuckhap[1025][1025];
-int N,M;
+int N,M; 
 int main(){
     scanf("%d %d",&N,&M);
     for(int i = 1; i <= N; i++){
