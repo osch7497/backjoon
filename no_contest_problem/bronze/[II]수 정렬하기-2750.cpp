@@ -1,5 +1,5 @@
 #include <iostream>
-#include <algorithm> 
+#include <algorithm>
 using namespace std;
 int vs[1000];
 int main() 
